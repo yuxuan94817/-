@@ -126,3 +126,12 @@ K-Means 群集分析
 3. 比較 Random Forest、XGBoost、LightGBM 等模型
 4. 建立即時旅遊消費預測模型
 5. 針對不同來源國建立專屬預測模型
+
+
+十、參考資料
+交通部觀光署（2025）。來臺旅客消費及動向調查。https://admin.taiwan.net.tw/businessinfo/IssuePage?a=14693 
+國境事務大隊（2026）。我國近10年出入境人次。https://servicestation.immigration.gov.tw/2275/2281/11505/11508/412756/cp_news
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830. 
+Scikit-learn developers. (2025). Scikit-learn documentation. https://scikit-learn.org/stable/
+The pandas development team. (2025). pandas documentation. https://pandas.pydata.org/
+黃韻勳（2026）。大數據分析與資料探勘課程講義。國立成功大學。（未出版教材）
